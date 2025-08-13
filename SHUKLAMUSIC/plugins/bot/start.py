@@ -28,9 +28,10 @@ from config import BANNED_USERS
 from strings import get_string
 
 YUMI_PICS = [
-"https://files.catbox.moe/wifnjm.jpg",
-"https://files.catbox.moe/zp7b9k.jpg",
-"https://files.catbox.moe/qd4pv8.jpg",  
+"https://files.catbox.moe/7l0gg9.jpg",
+"https://files.catbox.moe/b3almo.jpg",
+"https://files.catbox.moe/hp4256.jpg",
+"https://files.catbox.moe/m93qrw.jpg", 
 
 ]
 
@@ -67,13 +68,13 @@ async def start_pm(client, message: Message, _):
     await asyncio.sleep(0.1)
     await loading_1.edit_text("<b>ʜєʏ ʙᴧʙʏ! 💞</b>")
     await asyncio.sleep(0.1)
-    await loading_1.edit_text("<b>ᴛιᴅᴀʟ</b>")
+    await loading_1.edit_text("<b>𝐘ᴏʀꜱᴀ</b>")
     await asyncio.sleep(0.1)
-    await loading_1.edit_text("<b>ᴛιᴅᴀʟ ꭙ</b>")
+    await loading_1.edit_text("<b>𝐘ᴏʀꜱᴀ ꭙ</b>")
     await asyncio.sleep(0.1)
-    await loading_1.edit_text("<b>ᴛιᴅᴀʟ ꭙ ϻᴜsɪᴄ ♪</b>")
+    await loading_1.edit_text("<b>𝐘ᴏʀꜱᴀ ꭙ ϻᴜsɪᴄ ♪</b>")
     await asyncio.sleep(0.1)
-    await loading_1.edit_text("<b>ᴛιᴅᴀʟ ꭙ ϻᴜsɪᴄ♪\nsᴛᴧʀᴛed❤️‍🔥!🥀</b>")
+    await loading_1.edit_text("<b>𝐘ᴏʀꜱᴀ ꭙ ϻᴜsɪᴄ♪\nsᴛᴧʀᴛed❤️‍🔥!🥀</b>")
     await asyncio.sleep(0.1)
     await loading_1.delete()
 
