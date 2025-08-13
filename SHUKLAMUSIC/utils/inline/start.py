@@ -12,8 +12,8 @@ def start_panel(_):
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_CHAT),
         ],
         [
-            InlineKeyboardButton("˹ᴘʀιᴠᴧᴄʏ ᴘσʟιᴄʏ˼", url=f"https://telegra.ph/Privacy-Policy-08-03-101"),
-            InlineKeyboardButton("˹ᴛιᴅᴧʟ ᴛᴜηєs˼♪", url=f"http://t.me/TidalXMusicBot/tidaltunes"),
+            InlineKeyboardButton("˹ʏᴏʀsᴀ ᴛᴜɴᴇs˼♪", url=f"https://yorsa-mini-app.vercel.app/"),
+            InlineKeyboardButton("˹ɢᴀᴍᴇ ᴢᴏɴᴇ˼⇴", url=f"https://poki.com/"),),
         ],
     ]
     return buttons
@@ -28,8 +28,8 @@ def private_panel(_):
             )
         ],
         [
-            InlineKeyboardButton("˹ᴘʀιᴠᴧᴄʏ ᴘσʟιᴄʏ˼", url=f"https://telegra.ph/Privacy-Policy-08-03-101"),
-            InlineKeyboardButton("˹ᴛιᴅᴧʟ ᴛᴜηєs˼♪", url=f"http://t.me/TidalXMusicBot/tidaltunes"),
+            InlineKeyboardButton("˹ʏᴏʀsᴀ ᴛᴜɴᴇs˼♪", url=f"https://yorsa-mini-app.vercel.app/"),
+            InlineKeyboardButton("˹ɢᴀᴍᴇ ᴢᴏɴᴇ˼⇴", url=f"https://poki.com/"),
         ],
         [
             InlineKeyboardButton(text=_["S_B_4"], callback_data="settings_back_helper"),
