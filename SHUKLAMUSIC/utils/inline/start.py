@@ -13,7 +13,7 @@ def start_panel(_):
         ],
         [
             InlineKeyboardButton("˹ʏᴏʀsᴀ ᴛᴜɴᴇs˼♪", url=f"https://yorsa-mini-app.vercel.app/"),
-            InlineKeyboardButton("˹ɢᴀᴍᴇ ᴢᴏɴᴇ˼⇴", url=f"https://poki.com/"),),
+            InlineKeyboardButton("˹ɢᴀᴍᴇ ᴢᴏɴᴇ˼⇴", url=f"https://poki.com/"),
         ],
     ]
     return buttons
