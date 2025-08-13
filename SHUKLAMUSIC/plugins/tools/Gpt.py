@@ -4,7 +4,7 @@ from pyrogram.types import Message
 from pyrogram.enums import ChatAction, ParseMode
 from pyrogram import filters
 
-API_KEY = "190c3f41c4a66ef12053b5067e2a377c1e83ca124cf7329717ebd24c9f10f471"
+API_KEY = "abacf43bf0ef13f467283e5bc03c2e1f29dae4228e8c612d785ad428b32db6ce"
 
 BASE_URL = "https://api.together.xyz/v1/chat/completions"
 
@@ -22,7 +22,7 @@ async def chat_gpt(bot, message):
         if len(message.command) < 2:
             # If no question is asked, send an example message
             await message.reply_text(
-                "❍ ᴇxᴀᴍᴘʟᴇ:**\n\n/chatgpt ᴡʜᴏ ɪs ᴛʜᴇ ᴏᴡɴᴇʀ ᴏғ ˹ sᴛʀᴀɴɢᴇʀ ™˼?"
+                "❍ ᴇxᴀᴍᴘʟᴇ:**\n\n/chatgpt ᴡʜᴏ ɪs ᴛʜᴇ ᴏᴡɴᴇʀ ᴏғ ˹ 𝐘ᴏʀꜱᴀ ꭙ 𝐌ᴜꜱɪᴄ ♪ ™˼?"
             )
         else:
             # Extract the query from the user's message
@@ -68,7 +68,7 @@ async def chat_gpt(bot, message):
                     if "choices" in response_data and len(response_data["choices"]) > 0:
                         result = response_data["choices"][0]["message"]["content"]
                         await message.reply_text(
-                            f"{result} \n\nＡɴsᴡᴇʀᴇᴅ ʙʏ➛[愛|| ❰𝗗𝗥𝗫❱™ ɴᴇᴛᴡᴏʀᴋ ||](https://t.me/thedrxnet)",
+                            f"{result} \n\nＡɴsᴡᴇʀᴇᴅ ʙʏ➛[ 𝐘ᴏʀꜱᴀ ꭙ 𝐌ᴜꜱɪᴄ ♪](https://t.me/Yorsamusic_bot)",
                             parse_mode=ParseMode.MARKDOWN
                         )
                     else:
