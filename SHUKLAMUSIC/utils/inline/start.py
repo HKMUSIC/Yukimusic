@@ -27,7 +27,7 @@ def private_panel(_):
             )
         ],
         [
-            InlineKeyboardButton("˹ʏᴏʀsᴀ ᴛᴜɴᴇs˼♪", url=f"https://yukiapp-steel.vercel.app/"),
+            InlineKeyboardButton("Mᴇʟᴏᴅʏ ᴛᴜɴᴇs♪", url=f"https://yukiapp-steel.vercel.app/"),
             InlineKeyboardButton("˹ɢᴀᴍᴇ ᴢᴏɴᴇ˼⇴", url=f"https://poki.com/"),
         ],
         [
