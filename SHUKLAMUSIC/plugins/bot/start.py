@@ -28,10 +28,10 @@ from config import BANNED_USERS
 from strings import get_string
 
 YUMI_PICS = [
-"https://files.catbox.moe/7l0gg9.jpg",
-"https://files.catbox.moe/b3almo.jpg",
-"https://files.catbox.moe/hp4256.jpg",
-"https://files.catbox.moe/m93qrw.jpg", 
+"https://files.catbox.moe/sfa6aj.jpg",
+"https://files.catbox.moe/6ap009.jpg",
+"https://files.catbox.moe/lyiomu.jpg",
+"https://files.catbox.moe/jcb65y.jpg", 
 
 ]
 
