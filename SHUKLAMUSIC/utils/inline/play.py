@@ -60,7 +60,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         
      [
-            InlineKeyboardButton("˹ʏᴏʀsᴀ ᴛᴜɴᴇs˼♪", url=f"https://yukiapp-steel.vercel.app/"),
+            InlineKeyboardButton("˹ʏᴜᴋɪ ᴛᴜɴᴇs˼♪", url=f"https://yukiapp-steel.vercel.app/"),
         ],
 
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
