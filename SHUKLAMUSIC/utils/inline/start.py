@@ -12,7 +12,7 @@ def start_panel(_):
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_CHAT),
         ],
         [
-            InlineKeyboardButton("˹ʏᴏʀsᴀ ᴛᴜɴᴇs˼♪", url=f"https://yorsa-mini-app.vercel.app/"),
+            InlineKeyboardButton("˹ʏᴜᴋɪ ᴛᴜɴᴇs˼♪", url=f"https://yorsa-mini-app.vercel.app/"),
         ],
     ]
     return buttons
