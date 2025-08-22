@@ -55,13 +55,12 @@ def stream_markup_timer(_, chat_id, played, dur):
     buttons = [
                 
         [
-            InlineKeyboardButton(text=" ᴜᴘᴅᴀᴛᴇ ", url="https://t.me/GOJO_SUPPORT_GROUP_II",),
-            InlineKeyboardButton(text=" sᴜᴘᴘᴏʀᴛ ", url="https://t.me/+w_H0IbfCUL85ZTM1",),
+            InlineKeyboardButton(text=" ᴜᴘᴅᴀᴛᴇ ", url="https://t.me/hartsteeler",),
+            InlineKeyboardButton(text=" sᴜᴘᴘᴏʀᴛ ", url="https://t.me/hehe_heeeeee",),
         ],
         
      [
-            InlineKeyboardButton("˹ʏᴏʀsᴀ ᴛᴜɴᴇs˼♪", url=f"https://yorsa-mini-app.vercel.app/"),
-            InlineKeyboardButton("˹ɢᴀᴍᴇ ᴢᴏɴᴇ˼⇴", url=f"https://poki.com/"),
+            InlineKeyboardButton("˹ʏᴏʀsᴀ ᴛᴜɴᴇs˼♪", url=f"https://yukiapp-steel.vercel.app/"),
         ],
 
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
