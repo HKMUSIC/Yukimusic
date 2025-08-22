@@ -79,7 +79,7 @@ confirmer = {}
 
 # Image URLs
 START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/dxt02f.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/xagcg4.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/vx1oiy.jpg")
 PLAYLIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/3j0fgp.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/2vq8oz.jpg"
