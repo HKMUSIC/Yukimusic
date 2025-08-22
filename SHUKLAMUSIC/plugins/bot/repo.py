@@ -7,7 +7,7 @@ import httpx
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 start_txt = """
-❥ ωєℓ¢σмє тσ  ˹ 𓆩𝐆𐑴𝐣𝛐 𝐈𝐧𝐟𝛊𝐧𝛊𝐭𝐲𓆪˼ 🥀 
+❥ ωєℓ¢σмє тσ   ❥𝁓 𝐒 ᴜ ᴅ ᴇ ᴇ 𝐏 𝁘ໍ𝀛𓂃🍷 🥀 
 
 ❥ ʀᴇᴘᴏ ᴄʜᴀᴀʜɪʏe ᴛᴏ ʙᴏᴛ ᴋᴏ 
 
@@ -15,7 +15,7 @@ start_txt = """
 
 ❥ ᴀᴅᴍɪɴ ʙᴀɴᴏ ᴀᴜʀ sᴄʀᴇᴇɴsʜᴏᴛ 
      
-❥ ᴏᴡɴᴇʀ @II_YOUR_GOJO_ll ᴋᴏ ᴅᴏ ғɪʀ ʀᴇᴘᴏ ᴍɪʟ sᴀᴋᴛɪ ʜᴀɪ 
+❥ ᴏᴡɴᴇʀ @HeartStealer_X ᴋᴏ ᴅᴏ ғɪʀ ʀᴇᴘᴏ ᴍɪʟ sᴀᴋᴛɪ ʜᴀɪ 
 
 """
 
