@@ -31,12 +31,12 @@ YUMI_PICS = [
 "https://files.catbox.moe/sfa6aj.jpg",
 "https://files.catbox.moe/6ap009.jpg",
 "https://files.catbox.moe/lyiomu.jpg",
-"https://files.catbox.moe/jcb65y.jpg", 
+"https://files.catbox.moe/jcb65y.jpg",
 
 ]
 
 GREET = [
-    "💞", "💓", "🔍", "💕", "🥂", "⚡️", "🌺",
+    "💞", "🥂", "🔍", "🧪", "🥂", "⚡️", "🔥",
 ]
 
 
@@ -54,6 +54,12 @@ async def start_pm(client, message: Message, _):
     await add_served_user(message.from_user.id)
     
     await asyncio.sleep(0.1)
+    await loading_1.edit_text("<b>ᴅɪηɢ ᴅᴏηɢ.❤️‍🔥</b>")
+    await asyncio.sleep(0.1)
+    await loading_1.edit_text("<b>ᴅɪηɢ ᴅᴏηɢ..❤️‍🔥</b>")
+    await asyncio.sleep(0.1)
+    await loading_1.edit_text("<b>ᴅɪηɢ ᴅᴏηɢ...❤️‍🔥</b>")
+    await asyncio.sleep(0.1)
     await loading_1.edit_text("<b>sᴛᴧʀᴛɪηɢ.❤️‍🔥</b>")
     await asyncio.sleep(0.1)
     await loading_1.edit_text("<b>sᴛᴧʀᴛɪηɢ..❤️‍🔥</b>")
@@ -68,7 +74,7 @@ async def start_pm(client, message: Message, _):
     await asyncio.sleep(0.1)
     await loading_1.edit_text("<b>Mᴇʟᴏᴅʏ ꭙ ϻᴜsɪᴄ ♪</b>")
     await asyncio.sleep(0.1)
-    await loading_1.edit_text("<b>Mᴇʟᴏᴅʏ ꭙ ϻᴜsɪᴄ♪\nsᴛᴧʀᴛed💕!🥀</b>")
+    await loading_1.edit_text("<b>Mᴇʟᴏᴅʏ ꭙ ϻᴜsɪᴄ♪\nsᴛᴧʀᴛed❤️‍🔥!🥀</b>")
     await asyncio.sleep(0.1)
     await loading_1.delete()
 
